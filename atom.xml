@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>��Դ���϶�̬</title>
+  <title>能源材料动态</title>
   
-  <subtitle>��Դ���϶�̬</subtitle>
+  <subtitle>能源材料动态</subtitle>
   <link href="https://energymaterialsnews.github.io/atom.xml" rel="self"/>
   
   <link href="https://energymaterialsnews.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://energymaterialsnews.github.io/</id>
   
   <author>
-    <name>��Դ���϶�̬</name>
+    <name>能源材料动态</name>
     
   </author>
   
